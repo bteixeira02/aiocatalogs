@@ -31,7 +31,7 @@ LOG_TIMEZONE = "Europe/Berlin"
 [[d1_databases]]
 binding = "DB"
 database_name = "aiocatalogs"
-database_id = "55f455b6-3bac-4b05-8292-6de60c26eb9d"
+database_id = "b728e5d8-52a8-48cb-872d-e0893b15b399"
 migrations_dir = "./packages/platforms/cloudflare/migrations"
 
 # -------------------------------
